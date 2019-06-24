@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CricketTemperature</string>
+    <string name="etChirps">Number of Chirps in 25 seconds</string>
+    <string name="btn">CALCULATE TEMPERATURE</string>
+</resources>
